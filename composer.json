@@ -1,0 +1,14 @@
+{
+    "name": "kevnpessoa/php-assign-pdf",
+    "description": "Test Assignature PDF document",
+    "authors": [
+        {
+            "name": "Kevin Nacipe Pessoa",
+            "email": "kevnpessoa@gmail.com"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "6.3.*",
+        "setasign/fpdi": "^2.0"
+    }
+}
